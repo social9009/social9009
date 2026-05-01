@@ -322,22 +322,15 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 
 <div align="center">
 
-<!-- GitHub Stats - Alternative reliable source -->
-<img src="https://github-readme-stats.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-     onerror="this.style.display='none'" 
-     alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Akshay GitHub Stats" />
 
 <br/><br/>
 
-<!-- Activity Graph - Works even for new accounts -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=social9009&theme=tokyo-night&hide_border=true&area=true" 
-     alt="GitHub Activity Graph" />
+<img src="https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true" 
-     alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=social9009&theme=tokyo-night&hide_border=true&area=true&color=00c9ff&line=00c9ff&point=ffffff" alt="GitHub Activity Graph" />
 
 </div>
 
