@@ -317,6 +317,145 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 
 ---
 
+## 📊 Live GitHub Stats & Projects (Interactive)
+
+<div align="center">
+
+<!-- Primary GitHub Summary Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+
+<br/>
+
+<!-- Activity Graph (works for all accounts) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=social9009&theme=tokyo-night&hide_border=true&area=true&color=00c9ff&line=00c9ff&point=ffffff" alt="Activity Graph" />
+
+<br/>
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Top Languages fallback: show only if available -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=social9009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🔍 More Detailed Stats (Badges & Links)
+
+<div align="center">
+
+<!-- Repo / Followers / Stars / Commits badges -->
+[![Top Langs](https://img.shields.io/github/languages/top/social9009?color=00c9ff&style=for-the-badge)](https://github.com/social9009)
+[![Repos](https://img.shields.io/github/repo-size/social9009/MY-REPO?style=for-the-badge&color=00c9ff)](https://github.com/social9009)
+[![Followers](https://img.shields.io/github/followers/social9009?style=social)](https://github.com/social9009?tab=followers)
+[![Stars](https://img.shields.io/github/stars/social9009?style=for-the-badge&color=00c9ff)](https://github.com/social9009?tab=stars)
+[![Public Repos](https://img.shields.io/github/repo-count/social9009?style=for-the-badge&color=00c9ff)](https://github.com/social9009?tab=repositories)
+
+</div>
+
+---
+
+## 📂 Featured Projects — Interactive Cards
+
+> Tip: For each project below, create a repo with the matching name and include README, sample pipelines, Terraform files, manifests, and screenshots to unlock richer stat cards.
+
+<details>
+<summary>🔷 CI/CD Automation Pipeline — Jenkins & Nexus</summary>
+
+**Overview:** End-to-end CI/CD with Jenkins Declarative Pipeline. Builds Java apps (Maven), runs SonarQube checks, stores artifacts in Nexus, builds Docker images, and deploys to Nginx or Kubernetes.
+
+Tech: Jenkins, Groovy, Maven, Sonatype Nexus, Docker, Nginx, SonarQube, Linux, Git
+
+Quick Links:
+- Repo: https://github.com/social9009/ci-cd-automation (create this repo and push pipelines)
+- Key files to include: Jenkinsfile, pom.xml, sonar-project.properties, docker/Dockerfile, README.md
+
+Highlights to showcase in repo:
+- Jenkinsfile (Declarative stages)
+- Nexus docker-compose or terraform module
+- Scripted rollback steps & credential masking
+
+</details>
+
+<details>
+<summary>🔷 Terraform Infra Pipeline — IaC + Jenkins</summary>
+
+**Overview:** Automated Terraform provisioning via Jenkins: VPC, EC2, S3, remote state in S3 + DynamoDB lock, IAM roles for Jenkins EC2.
+
+Tech: Terraform (HCL), Jenkins, AWS (VPC, EC2, S3, IAM, DynamoDB), Shell scripts
+
+Quick Links:
+- Repo: https://github.com/social9009/terraform-aws-automation
+- Key files: main.tf, variables.tf, backend.tf, jenkins-pipeline.tf, README.md
+
+Highlights to showcase in repo:
+- Backend configuration (S3 + DynamoDB)
+- CI job demonstrating plan + apply with approval PR step
+- Sample output/terraform state snapshot (sanitized)
+
+</details>
+
+<details>
+<summary>🔷 Kubernetes CI/CD & DevSecOps — EKS Production Setup</summary>
+
+**Overview:** Production-ready CI/CD for Node.js microservices on EKS. Integrated SonarQube, OWASP, Trivy, Blue-Green & Canary deployments, RBAC, IRSA, and GitOps with ArgoCD.
+
+Tech: Kubernetes (EKS), Docker, Jenkins, ArgoCD, Terraform, SonarQube, Trivy, OWASP, Istio, Grafana
+
+Quick Links:
+- Repo: https://github.com/social9009/eks-devsecops-platform
+- Key files: k8s-manifests/, terraform/, jenkinsfiles/, argocd-apps/, README.md
+
+Highlights to showcase in repo:
+- Sample Kubernetes manifests (Deployment, Service, Ingress, RBAC)
+- ArgoCD Application YAML and GitOps layout
+- Blue-Green deployment manifests and Canary rollout examples
+- Demo security scan outputs (Trivy / OWASP reports)
+
+</details>
+
+---
+
+## 📈 How to Make These Stats More Impressive (Checklist)
+
+- [ ] Push full project code (pipelines, TF, manifests, playbooks)
+- [ ] Add descriptive README with architecture diagrams and runbook
+- [ ] Add sample screenshots & CI success badges (shield.io)
+- [ ] Tag releases and create Releases page for each repo
+- [ ] Add more commits across repos to improve activity & streak
+- [ ] Add topics on each repo (e.g., devops, terraform, kubernetes, jenkins)
+
+---
+
+## 🎯 Optional Extra Widgets (Paste if you want even more)
+
+- GitHub Org/Projects: show pinned repos with custom badges
+```
+<!-- Replace repo names with your real repo names -->
+[![Repo: CI/CD Automation](https://img.shields.io/badge/Repo-CI%2FCD--Automation-00c9ff?style=for-the-badge)](https://github.com/social9009/ci-cd-automation)
+[![Repo: Terraform AWS](https://img.shields.io/badge/Repo-Terraform--AWS-00c9ff?style=for-the-badge)](https://github.com/social9009/terraform-aws-automation)
+[![Repo: EKS DevSecOps](https://img.shields.io/badge/Repo-EKS--DevSecOps-00c9ff?style=for-the-badge)](https://github.com/social9009/eks-devsecops-platform)
+```
+
+- CI build badge example (after you enable CI on a repo):
+```
+![Build Status](https://img.shields.io/github/actions/workflow/status/social9009/ci-cd-automation/ci.yml?branch=main&style=flat-square)
+```
+
+---
+
+Paste the whole block above into your README.md and commit.
+
+If you want, I can:
+- Generate ready-to-paste README.md content for each project repo (Jenkinsfile examples, Terraform backend template, Kubernetes manifests)
+- Or customize the badges with your actual repo names and CI workflow file names
+
+Which would you like next? 🙂
+
+
 
 ## 📊 GitHub Stats
 
