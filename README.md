@@ -346,7 +346,7 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-akshaysawant9009%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaysawant9009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-social9009-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/social9009)
 [![Location](https://img.shields.io/badge/Location-Pune%2C%20India-00C9FF?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Hinjawadi,Pune)
 
 </div>
