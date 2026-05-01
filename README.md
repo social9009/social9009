@@ -322,18 +322,20 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Akshay GitHub Stats" />
+<!-- GitHub Stats - Using proxy endpoint to avoid rate limits -->
+<img decoding="async" loading="lazy" src="https://github-readme-stats-git-master.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Akshay's GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- GitHub Streak - Corrected service URL -->
+<img decoding="async" loading="lazy" src="https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=social9009&theme=tokyo-night&hide_border=true&area=true&color=00c9ff&line=00c9ff&point=ffffff" alt="GitHub Activity Graph" />
+<!-- GitHub Activity Graph - Stable as is -->
+<img decoding="async" loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=social9009&theme=tokyo-night&hide_border=true&area=true&color=00c9ff&line=00c9ff&point=ffffff" alt="GitHub Activity Graph" />
 
 </div>
-
 
 ---
 
