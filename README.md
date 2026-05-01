@@ -322,21 +322,21 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 
 <div align="center">
 
-<!-- GitHub Stats - Using proxy endpoint to avoid rate limits -->
-<img decoding="async" loading="lazy" src="https://github-readme-stats-git-master.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Akshay's GitHub Stats" />
+<!-- Fallback: Shields.io badges that always work -->
+<img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&color=00c9ff&style=for-the-badge&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsocial9009" alt="Total Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&color=00c9ff&style=for-the-badge&query=%24.forks&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fsocial9009" alt="Total Forks" />
+<img src="https://img.shields.io/github/followers/social9009?style=for-the-badge&color=00c9ff" alt="GitHub Followers" />
 
 <br/><br/>
 
-<!-- GitHub Streak - Corrected service URL -->
-<img decoding="async" loading="lazy" src="https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- Your streak and activity graph (these work fine) -->
+<img src="https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- GitHub Activity Graph - Stable as is -->
-<img decoding="async" loading="lazy" src="https://github-readme-activity-graph.vercel.app/graph?username=social9009&theme=tokyo-night&hide_border=true&area=true&color=00c9ff&line=00c9ff&point=ffffff" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=social9009&theme=tokyo-night&hide_border=true&area=true&color=00c9ff&line=00c9ff&point=ffffff" alt="GitHub Activity Graph" />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
