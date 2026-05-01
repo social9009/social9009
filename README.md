@@ -317,15 +317,27 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+<!-- GitHub Stats - Alternative reliable source -->
+<img src="https://github-readme-stats.vercel.app/api?username=social9009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+     onerror="this.style.display='none'" 
+     alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=social9009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true)
+<!-- Activity Graph - Works even for new accounts -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=social9009&theme=tokyo-night&hide_border=true&area=true" 
+     alt="GitHub Activity Graph" />
+
+<br/><br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=social9009&theme=tokyonight&hide_border=true" 
+     alt="GitHub Streak" />
 
 </div>
 
