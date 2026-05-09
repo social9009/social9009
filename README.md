@@ -296,9 +296,9 @@ A fully automated, secure, production-ready CI/CD platform with integrated DevSe
 | Degree / Certification | Institution / Body | Status |
 |---|---|---|
 | 🏆 AWS Solutions Architect Associate | Amazon Web Services | ✅ Certified |
-| 🎓 B.E. Mechanical Engineering | Shivaji University, Pune | ✅ Completed |
-| 🏫 Higher Secondary (12th) | Kirloskar Junior College | ✅ Completed |
-| 🏫 Secondary (10th) | Kirloskar High School | ✅ Completed |
+| 🎓 B.E. Mechanical Engineering | Shivaji University | ✅ Completed |
+| 🏫 Higher Secondary (12th) |  Junior College | ✅ Completed |
+| 🏫 Secondary (10th) |  High School | ✅ Completed |
 
 ---
 
